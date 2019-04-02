@@ -1,13 +1,13 @@
 {
   "main.css": "/cyberpunk-terminal/static/css/main.e1e92f55.chunk.css",
-  "main.js": "/cyberpunk-terminal/static/js/main.000575e9.chunk.js",
-  "main.js.map": "/cyberpunk-terminal/static/js/main.000575e9.chunk.js.map",
+  "main.js": "/cyberpunk-terminal/static/js/main.2045b8b4.chunk.js",
+  "main.js.map": "/cyberpunk-terminal/static/js/main.2045b8b4.chunk.js.map",
   "runtime~main.js": "/cyberpunk-terminal/static/js/runtime~main.6052718c.js",
   "runtime~main.js.map": "/cyberpunk-terminal/static/js/runtime~main.6052718c.js.map",
   "static/js/2.5ab2fb8d.chunk.js": "/cyberpunk-terminal/static/js/2.5ab2fb8d.chunk.js",
   "static/js/2.5ab2fb8d.chunk.js.map": "/cyberpunk-terminal/static/js/2.5ab2fb8d.chunk.js.map",
   "index.html": "/cyberpunk-terminal/index.html",
-  "precache-manifest.e5591f04d8e159fb3c6af4ca5f8d1cd8.js": "/cyberpunk-terminal/precache-manifest.e5591f04d8e159fb3c6af4ca5f8d1cd8.js",
+  "precache-manifest.33e1f673333c6873799a44189a486c23.js": "/cyberpunk-terminal/precache-manifest.33e1f673333c6873799a44189a486c23.js",
   "service-worker.js": "/cyberpunk-terminal/service-worker.js",
   "static/css/main.e1e92f55.chunk.css.map": "/cyberpunk-terminal/static/css/main.e1e92f55.chunk.css.map"
 }
