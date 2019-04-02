@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/cyberpunk-terminal/static/js/runtime~main.6052718c.js"
   },
   {
-    "revision": "7c0570dea92e272d2b2d",
-    "url": "/cyberpunk-terminal/static/js/main.6dc476cf.chunk.js"
+    "revision": "4cd9e7680fb05b1ff2b7",
+    "url": "/cyberpunk-terminal/static/js/main.c8725d01.chunk.js"
   },
   {
     "revision": "e3b5f2671a254b628816",
     "url": "/cyberpunk-terminal/static/js/2.1ef7034c.chunk.js"
   },
   {
-    "revision": "7c0570dea92e272d2b2d",
+    "revision": "4cd9e7680fb05b1ff2b7",
     "url": "/cyberpunk-terminal/static/css/main.e1e92f55.chunk.css"
   },
   {
-    "revision": "3429b78516c8b87b4c4de8fa6d51e473",
+    "revision": "e6390af70328cc75eeefb53a929f30bd",
     "url": "/cyberpunk-terminal/index.html"
   }
 ];
