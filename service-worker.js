@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cyberpunk-terminal/precache-manifest.33e1f673333c6873799a44189a486c23.js"
+  "/cyberpunk-terminal/precache-manifest.9007cf748b46d85f3e1736a40fa0cd5a.js"
 );
 
 workbox.clientsClaim();
