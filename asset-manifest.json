@@ -1,13 +1,13 @@
 {
-  "main.css": "/cyber_punk_terminal/static/css/main.e1e92f55.chunk.css",
-  "main.js": "/cyber_punk_terminal/static/js/main.53b5265f.chunk.js",
-  "main.js.map": "/cyber_punk_terminal/static/js/main.53b5265f.chunk.js.map",
-  "runtime~main.js": "/cyber_punk_terminal/static/js/runtime~main.e5f83ac4.js",
-  "runtime~main.js.map": "/cyber_punk_terminal/static/js/runtime~main.e5f83ac4.js.map",
-  "static/js/2.1ef7034c.chunk.js": "/cyber_punk_terminal/static/js/2.1ef7034c.chunk.js",
-  "static/js/2.1ef7034c.chunk.js.map": "/cyber_punk_terminal/static/js/2.1ef7034c.chunk.js.map",
-  "index.html": "/cyber_punk_terminal/index.html",
-  "precache-manifest.cc25ba7de977904f3d312ae65c9c82b1.js": "/cyber_punk_terminal/precache-manifest.cc25ba7de977904f3d312ae65c9c82b1.js",
-  "service-worker.js": "/cyber_punk_terminal/service-worker.js",
-  "static/css/main.e1e92f55.chunk.css.map": "/cyber_punk_terminal/static/css/main.e1e92f55.chunk.css.map"
+  "main.css": "/cyberpunk-terminal/static/css/main.e1e92f55.chunk.css",
+  "main.js": "/cyberpunk-terminal/static/js/main.475f9c49.chunk.js",
+  "main.js.map": "/cyberpunk-terminal/static/js/main.475f9c49.chunk.js.map",
+  "runtime~main.js": "/cyberpunk-terminal/static/js/runtime~main.6052718c.js",
+  "runtime~main.js.map": "/cyberpunk-terminal/static/js/runtime~main.6052718c.js.map",
+  "static/js/2.1ef7034c.chunk.js": "/cyberpunk-terminal/static/js/2.1ef7034c.chunk.js",
+  "static/js/2.1ef7034c.chunk.js.map": "/cyberpunk-terminal/static/js/2.1ef7034c.chunk.js.map",
+  "index.html": "/cyberpunk-terminal/index.html",
+  "precache-manifest.26b9b175676e856abf89f76ad14ed6d8.js": "/cyberpunk-terminal/precache-manifest.26b9b175676e856abf89f76ad14ed6d8.js",
+  "service-worker.js": "/cyberpunk-terminal/service-worker.js",
+  "static/css/main.e1e92f55.chunk.css.map": "/cyberpunk-terminal/static/css/main.e1e92f55.chunk.css.map"
 }

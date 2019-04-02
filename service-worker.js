@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cyber_punk_terminal/precache-manifest.cc25ba7de977904f3d312ae65c9c82b1.js"
+  "/cyberpunk-terminal/precache-manifest.26b9b175676e856abf89f76ad14ed6d8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/cyber_punk_terminal/index.html", {
+workbox.routing.registerNavigationRoute("/cyberpunk-terminal/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
