@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/cyberpunk-terminal/static/css/main.e1e92f55.chunk.css"
   },
   {
-    "revision": "a37f043c1b01689d32c91af4d6cd28e0",
+    "revision": "3429b78516c8b87b4c4de8fa6d51e473",
     "url": "/cyberpunk-terminal/index.html"
   }
 ];
